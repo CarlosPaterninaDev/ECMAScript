@@ -1,0 +1,22 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Todo sobre ECMAScript++",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlycode/ECMAScript.git"
+  },
+  "keywords": [
+    "ecmascript"
+  ],
+  "author": "carlycode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlycode/ECMAScript/issues"
+  },
+  "homepage": "https://github.com/Carlycode/ECMAScript#readme"
+}
